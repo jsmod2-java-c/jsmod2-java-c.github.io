@@ -26,7 +26,7 @@ navbar:
       - title: Bug tracker
         url: https://bugs.jython.org/
       - title: Github
-        url: https://github.com/jythontools/jython
+        url: https://github.com/jsmod2-java-c/JSmod2-Core
       - title: Mercurial
         url: https://hg.python.org/jython/
       - title: Mailing List
@@ -34,6 +34,6 @@ navbar:
       - title: Developer Guide
         url: https://jython-devguide.readthedocs.io/en/latest/
       - title: Website source
-        url: https://github.com/jython/jython.github.io/
+        url: https://github.com/jsmod2-java-c/jsmod2-java-c.github.io
   - title: Links
     url: links
