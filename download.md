@@ -1,17 +1,14 @@
 ---
 title: Downloads
 ---
-## Current Version
-The current version of Jython is 2.7.1
-It can be downloaded here:
-- [Jython Installer](http://search.maven.org/remotecontent?filepath=org/python/jython-installer/2.7.1/jython-installer-2.7.1.jar) - Use this to install Jython.
-- [Jython Standalone](http://search.maven.org/remotecontent?filepath=org/python/jython-standalone/2.7.1/jython-standalone-2.7.1.jar) - Use this to run Jython without installing or to embed Jython in a Java application.
+## JSmod2 Downloading
 
-For information on installing see [Installation](installation).
+1. Download [JSmod2 Java Server](https://github.com/jsmod2-java-c/JSmod2-Core/releases)
 
-This version is supported on Java 7 and 8.
+2. Download [JSmod2 Manager](https://github.com/jsmod2-java-c/JSmod2-Manager)
 
-## Previous Versions
-Previous versions of Jython are available from:
-- [Jython Installer](https://search.maven.org/search?q=g:org.python%20AND%20a:jython-installer&core=gav)
-- [Jython Standalone](https://mvnrepository.com/artifact/org.python/jython-standalone)
+## JSmod2 Assemblies
+
+* JSmod2-Java
+* ProxyHandler
+* JSmod2-Manager
