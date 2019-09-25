@@ -3,7 +3,7 @@ title: Home
 ---
 
 # JSMod2    
-![avatar](https://github.com/jsmod2-java-c/JSmod2-Core/github_info/jsmod2-banner.png)
+![avatar](https://github.com/jsmod2-java-c/JSmod2-Core/blob/master/github_info/jsmod2-banner.png)
 ![LICENSE](https://img.shields.io/badge/license-GPL-blue.svg)
 
 > Copyright: JSmod2 LICENSE 
